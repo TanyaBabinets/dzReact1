@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4ecec;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h4 {
+    text-align: right;
+    font-style: italic;
+    width: 600px;
+    margin-right: 80px;
+    margin-left: auto;
+    font-size: 24px;
+    color: rgb(84, 4, 4);
+
+}
+
+h2 {
+    margin-left: 80px;
+    font-size: 32px;
+}
+
+h1 {
+    color: rgb(216, 7, 95);
+    text-align: center;
+    font-family: "Style Script", cursive;
+    font-size: 72px;
+    font-family: "Great Vibes", cursive;
+}
+
+ul li {
+    margin-bottom: 5px;
+    font-style: italic;
+    margin-left: 80px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    width: 100vw;
+
+}
+
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 30px;
+}
+
+.pic2 {
+    display: inline-flex;
+    gap: 10px;
+
+    height: auto;
+    align-items: flex-start;
+
+}
+
+.pic2 img {
+    width: 50%;
+}
+
+.pic2 p {
+    width: 50%;
+
+}
